@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>293339C7-7455-4033-8B04-CB6FEFE87A62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AcronymFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9DE078F670CACB332FCC532DE8A412C90B1C75DD</key>
+		<string>https://github.com/shashanknsm/acronym-finder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AcronymFinder.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9DE078F670CACB332FCC532DE8A412C90B1C75DD</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shashanknsm/acronym-finder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9DE078F670CACB332FCC532DE8A412C90B1C75DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9DE078F670CACB332FCC532DE8A412C90B1C75DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AcronymFinder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
