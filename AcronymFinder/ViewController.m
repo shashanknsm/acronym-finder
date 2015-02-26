@@ -8,7 +8,8 @@
 
 #import "ViewController.h"
 
-#define BASE_URL @"http://www.nactem.ac.uk/software/acromine/dictionary.py/?sf=%@"
+#define URL_WITH_QUERY(QUERY) [NSString stringWithFormat:@"http://www.nactem.ac.uk/software/acromine/dictionary.py/?sf=%@",QUERY]
+
 static NSString* cellIdentifier = @"cell";
 
 
@@ -27,7 +28,7 @@ static NSString* cellIdentifier = @"cell";
 
 - (void)searchBarSearchButtonClicked:(UISearchBar *)searchBar {
 	[self.view endEditing:YES];
-	NSString *searchURL = [NSString stringWithFormat:BASE_URL,searchBar.text];
+	NSString *searchURL = URL_WITH_QUERY(searchBar.text);
 	[self shouldDisplayIndicator:YES];
 	
 	__weak typeof(self) weakSelf = self;
